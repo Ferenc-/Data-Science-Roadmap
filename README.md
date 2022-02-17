@@ -11,6 +11,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: 
+| [Cognitiveclass](https://cognitiveclass.ai/courses/python-for-data-science) | Python for Data Science | To Do |
 | [Udemy](https://www.udemy.com/course/complete-python-developer-zero-to-mastery) | Complete Python Developer in 2022: Zero to Mastery | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | To Do |
@@ -31,6 +32,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-scala) | Data Science with Scala | To Do |
 | [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do |
 
 #### Books
@@ -43,52 +45,14 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | To Do |
 
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
 
-
-### Data Science Basics
+### Discrete mathematics
 #### Courses
 | URL | Title | Status |
-| :---: | --- | :---: | 
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-101) | Data Science 101 | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | Data Science Tools | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-methodology-2) | Data Science Methodology | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/python-for-data-science) | Python for Data Science | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-analysis-python) | Data Analysis with Python | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-visualization-with-python) | Data Visualization with Python | To Do |
+| :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/course/master-discrete-math/) | Discrete Mathematics: Beginner's Complete, Math Crash Course  | To Do |
+| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | To Do |
 
-### Scala Basics
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: | 
-| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-scala) | Data Science with Scala | To Do |
-
-### Spark  Basics
-#### Courses
-| URL | Title | Status | 
-| :---: | --- | :---: | 
-| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-spark) | Spark Fundamentals I | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-rdd) | Spark Fundamentals II | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-mllib) | Spark MLlIB | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-graphx) | Exploring Spark's GraphX | To Do |
-
-### Deep Learning Basics
-#### Courses
-| URL | Title | Status | 
-| :---: | --- | :---: | 
-| [Cognitiveclass](https://cognitiveclass.ai/courses/introduction-deep-learning) | Deep Learning Fundamentals | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/tensorflow_gpu) | Accelerating Deep Learning with GPUs | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2) | Deep Learning with TensorFlow | To Do |
-
-### Big Data Basics
-#### Courses
-| URL | Title | Status | 
-| :---: | --- | :---: | 
-| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-big-data) | Big Data 101 | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/introduction-to-hadoop) | Hadoop 101 | To Do |
-| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-spark) | Spark Fundamentals I | To Do |
 
 
 ## Machine Learning
@@ -96,6 +60,11 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: | 
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-101) | Data Science 101 | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | Data Science Tools | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-science-methodology-2) | Data Science Methodology | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-analysis-python) | Data Analysis with Python | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/data-visualization-with-python) | Data Visualization with Python | To Do |
 | [Zerotomastery](https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery) | Complete Machine Learning and Data Science: Zero to Mastery | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | To Do |
@@ -117,6 +86,9 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status | 
 | :---: | --- | :---: |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/introduction-deep-learning) | Deep Learning Fundamentals | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/tensorflow_gpu) | Accelerating Deep Learning with GPUs | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2) | Deep Learning with TensorFlow | To Do |
 | [Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/) | Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | To Do |
 | [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | To Do |
@@ -188,6 +160,9 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-big-data) | Big Data 101 | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/introduction-to-hadoop) | Hadoop 101 | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-spark) | Spark Fundamentals I | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | To Do |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
@@ -200,6 +175,17 @@ My roadmap to study Data Science.
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Learning Elastic Stack 7.0 | Pranav Shukla, Sharath Kumar M N | To Do |
+
+
+### Spark
+#### Courses
+| URL | Title | Status | 
+| :---: | --- | :---: | 
+| [Cognitiveclass](https://cognitiveclass.ai/courses/what-is-spark) | Spark Fundamentals I | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-rdd) | Spark Fundamentals II | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-mllib) | Spark MLlIB | To Do |
+| [Cognitiveclass](https://cognitiveclass.ai/courses/spark-graphx) | Exploring Spark's GraphX | To Do |
+
 
 
 ### Cloud
@@ -241,13 +227,13 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong | To Do |
 
-### Linear Algebra & Discrete mathematics
+### Linear Algebra
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: | 
 | [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Essence of linear algebra | To Do |
 | [ocw-mit](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Linear Algebra | To Do |
-| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | To Do |
+
 
 ### Statistics & Probability theory
 #### Courses
