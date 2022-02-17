@@ -180,9 +180,15 @@ My roadmap to study Data Science.
 
 
 ## Mathematics
-| URL | Title | Status |
+| URL | Title | Status | 
 | :---: | --- | :---: |
 | [Khan Academy](https://www.khanacademy.org/math/arithmetic) | Arithmetic | *In Progress* |
+| [Khan Academy](https://www.khanacademy.org/math/probability) | High school statistics | To Do |
+| [Khan Academy](https://www.khanacademy.org/math/basic-geo) | Basic geometry and measurement | To Do |
+| [Khan Academy](https://www.khanacademy.org/math/pre-algebra) | Pre-algebra | To Do |
+| [Khan Academy](https://www.khanacademy.org/math/math1) | Mathematics 1 | To Do |
+| [Khan Academy](https://www.khanacademy.org/math/math2) | Mathematics 2 | To Do |
+| [Khan Academy](https://www.khanacademy.org/math/math3) | Mathematics 3 | To Do |
 
 #### Books
 | Title | Author | Status |
