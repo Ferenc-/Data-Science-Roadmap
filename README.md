@@ -197,13 +197,18 @@ My roadmap to study Data Science.
 ### Linear Algebra & Discrete mathematics
 #### Courses
 | URL | Title | Status |
-| :---: | --- | :---: |
+| :---: | --- | :---: | 
+| [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Essence of linear algebra | To Do |
+| [ocw-mit](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Linear Algebra | To Do |
 | [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | To Do |
 
 ### Statistics & Probability theory
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Harvard.](https://projects.iq.harvard.edu/stat110/home) | Statistics 110: Probability | To Do |
+| [Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Intro to Descriptive Statistics | To Do |
+| [Udacity](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Intro to Inferential Statistics | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | To Do |
 
 #### Books
@@ -214,7 +219,11 @@ My roadmap to study Data Science.
 ### Calculus
 #### Courses
 | URL | Title | Status |
-| :---: | --- | :---: |
+| :---: | --- | :---: | 
+| [EDX](https://www.edx.org/course/calculus-1a-differentiation) | Calculus 1A: Differentiation | To Do |
+| [EDX](https://www.edx.org/course/calculus-1b-integration) | Calculus 1B: Integration | To Do |
+| [EDX](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Calculus 1C: Coordinate Systems & Infinite Series | To Do |
+| [ocw-mit](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | Multivariable Calculus | To Do |
 | [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | To Do |
 
 # Visualization
