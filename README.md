@@ -47,7 +47,6 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| 
 
 ## Machine Learning
 ### Fundamentals
@@ -77,7 +76,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | To Do |
 | [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | To Do |
-| [NewProLab] | Deep Learning | To Do |
+| NewProLab | Deep Learning | To Do |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do 
 | [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | To Do |
