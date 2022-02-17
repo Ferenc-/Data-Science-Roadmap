@@ -11,7 +11,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: 
-| [Udemy](|https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | Complete Python Developer in 2022: Zero to Mastery | To Do |
+| [Udemy](https://www.udemy.com/course/complete-python-developer-zero-to-mastery) | Complete Python Developer in 2022: Zero to Mastery | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | To Do |
 | [Udemy](https://www.udemy.com/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | To Do |
@@ -77,8 +77,8 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | To Do |
 | [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | To Do |
-| NewProLab | Deep Learning | To Do |
-| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | To Do |
+| [NewProLab] | Deep Learning | To Do |
+| [OpenDataScience](https://dlcourse.ai/) | Deep Learning | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do 
 | [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | To Do |
 
