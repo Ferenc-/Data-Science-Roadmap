@@ -284,4 +284,3 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | To Do |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do |
-| [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | To Do |
