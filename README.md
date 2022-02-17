@@ -224,7 +224,7 @@ My roadmap to study Data Science.
 
 ## Mathematics
 | URL | Title | Status | 
-| :---: | --- | :---: |
+| :---: | --- | :---: | 
 | [Khan Academy](https://www.khanacademy.org/math/arithmetic) | Arithmetic | *In Progress* |
 | [Khan Academy](https://www.khanacademy.org/math/probability) | High school statistics | To Do |
 | [Khan Academy](https://www.khanacademy.org/math/basic-geo) | Basic geometry and measurement | To Do |
@@ -232,10 +232,14 @@ My roadmap to study Data Science.
 | [Khan Academy](https://www.khanacademy.org/math/math1) | Mathematics 1 | To Do |
 | [Khan Academy](https://www.khanacademy.org/math/math2) | Mathematics 2 | To Do |
 | [Khan Academy](https://www.khanacademy.org/math/math3) | Mathematics 3 | To Do |
+| [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning) | Mathematics for Machine Learning Specialization | To Do |
+
+
 
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong | To Do |
 
 ### Linear Algebra & Discrete mathematics
 #### Courses
