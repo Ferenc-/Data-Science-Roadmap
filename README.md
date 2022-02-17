@@ -53,7 +53,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: | 
-| [Coursera](https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery) | Complete Machine Learning and Data Science: Zero to Mastery | *In Progress* |
+| [Zerotomastery](https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery) | Complete Machine Learning and Data Science: Zero to Mastery | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | To Do |
