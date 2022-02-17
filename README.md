@@ -72,19 +72,19 @@ My roadmap to study Data Science.
 
 ### Deep Learning
 #### Courses
-| URL | Title | Status |
+| URL | Title | Status | 
 | :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/) | Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | To Do |
 | [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | To Do |
 | NewProLab | Deep Learning | To Do |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning | To Do |
-| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do 
+| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do |
 | [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | To Do |
 
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-|
 
 ### MLOps
 #### Courses
@@ -119,7 +119,11 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | To Do |
+
 ### Reinforcement Learning
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
 
 ## Data Engineering
 ### SQL
