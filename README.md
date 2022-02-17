@@ -206,7 +206,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Harvard.](https://projects.iq.harvard.edu/stat110/home) | Statistics 110: Probability | To Do |
+| [Harvard](https://projects.iq.harvard.edu/stat110/home) | Statistics 110: Probability | To Do |
 | [Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Intro to Descriptive Statistics | To Do |
 | [Udacity](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Intro to Inferential Statistics | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | To Do |
