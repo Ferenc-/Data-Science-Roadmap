@@ -235,7 +235,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| D3 for the Impatient | Philipp K. Janert | *In Progress* |
+| D3 for the Impatient | Philipp K. Janert | To Do |
 
 ### Tableau
 #### Courses
