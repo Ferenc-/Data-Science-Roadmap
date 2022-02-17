@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 <p align="center"> 
-<img src="https://miro.medium.com/max/2118/1*iBCym9gMX1SHOAlcs7JLUQ.png" width="600">
+<img src="https://923259.smushcdn.com/2321054/wp-content/uploads/2019/05/what-is-data-science-1-1536x864.jpg?lossy=0&strip=1&webp=1" width="600">
 </p>
 
 My roadmap to study Data Science.
